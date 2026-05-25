@@ -166,5 +166,5 @@ As redes de computadores evoluíram rapidamente desde os primeiros mainframes at
 - TANENBAUM, Andrew S. Redes de Computadores.
 - Material da disciplina de Redes de Computadores.
 
-- {MR. ROBOT. Criação de Sam Esmail. Estados Unidos: USA Network, 2015–2019. Série de televisão.}
+- {MR. ROBOT. Criação de Sam Esmail. Estados Unidos: USA Network, 2015–2019. Série de televisão.
 
