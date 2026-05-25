@@ -8,7 +8,7 @@
 ---
 
 # Tema do Trabalho
-## Anonymous e Redes de Computadores
+## Anonymous 
 
 ---
 
